@@ -1,0 +1,7 @@
+Written Anlysis for Heroes of PyMoli
+
+By analyzing these dataset, we can safely come to three main conclusions 
+
+1. Males are the leading consuming gender for the Heroes of PyMoli title, with a total purchase value by males being $1,967.64. 
+
+2. Game is 
