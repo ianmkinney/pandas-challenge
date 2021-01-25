@@ -1,7 +1,21 @@
 Written Anlysis for Heroes of PyMoli
 
-By analyzing these dataset, we can safely come to three main conclusions 
+From the analysis performed, I concluded the following from this dataset. 
 
-1. Males are the leading consuming gender for the Heroes of PyMoli title, with a total purchase value by males being $1,967.64. 
+1. The market is dominated by males, being 84.03% of the player population. 
 
-2. Game is 
+2. Genders other than male tend to spend more on average total and per purchase.  
+ 
+3. Game is mostly populated with players aged 20-24
+
+4. Age of players is normally distributed, with the youngest player being 7 and oldest player being 45. The average age range is 20-24.
+
+5. Cheaper items are bringing the average price of a purchased item down. The top spenders are over a dollar more expensive.
+
+6. Players in the age range of 35-39 tend to spend more on average.
+
+My recommendation to the creators of Heroes of Pymoli:
+
+Focus on attracting more non-male players to the game, as they will be more profitable players. 
+Stay away from adding cheaper items, and maybe try pushing prices up on new items. 
+Try to build a player loyalty to the game, and keep players around for longer. The data shows as players get older they will spend more money on average. 
